@@ -1,0 +1,6 @@
+
+
+there are 4 ways to find output in the JS.
+
+1) InnerHTMl=> we call the element by id and change the content of it.
+2)Document.Write
