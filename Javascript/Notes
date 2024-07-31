@@ -4,3 +4,8 @@ there are 4 ways to find output in the JS.
 
 1) InnerHTMl=> we call the element by id and change the content of it.
 2)Document.Write=> ovverrides all the data on document and writes on it.
+
+3) == checks only values means if you match number with string it will be true;
+4)=== checks values as well as type of the values. (Strictly checks !)
+
+5) ** is used to calculate the exponential of the given number.
