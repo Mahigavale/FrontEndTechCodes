@@ -11,6 +11,8 @@ const Profile = {
 
 console.log(Profile);
 
+Profile.name = "Mansi";
 console.log(Profile.name);
 
 console.log(Profile.getStatus());
+console.log(Profile);
