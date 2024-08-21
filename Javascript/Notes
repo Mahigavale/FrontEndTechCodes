@@ -9,3 +9,7 @@ there are 4 ways to find output in the JS.
 4)=== checks values as well as type of the values. (Strictly checks !)
 
 5) ** is used to calculate the exponential of the given number.
+
+6)array in js can store the multiple data at a single time.
+7) indices start from zero.
+8) cd .. => to go back to the previous folder.
