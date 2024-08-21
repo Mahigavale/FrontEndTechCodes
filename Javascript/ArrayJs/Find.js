@@ -1,9 +1,8 @@
-let arr = [10, 20, 30, 40, 50, 60];
+let numbers = [10, 20, 30, 40, 50];
 
-function demo(Variable) {
-  return Variable > 30;
+function demo(V) {
+  //condition.
+  if (V > 30) return V;
 }
 
-let v = arr.find(demo);
-
-console.log(v);
+console.log(numbers.find(demo));
